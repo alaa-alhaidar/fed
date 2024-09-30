@@ -48,7 +48,7 @@ class CustomFedAvg(fl.server.strategy.FedAvg):
 
 
 import flwr as fl
-from com.terminal import NUM_ROUND, NUM_CLIENT
+from terminal import NUM_ROUND, NUM_CLIENT
 
 
 def main():
